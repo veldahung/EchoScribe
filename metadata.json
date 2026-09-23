@@ -1,0 +1,6 @@
+{
+  "name": "EchoScribe - Bilingual Speech & Speaker Transcription",
+  "description": "Upload audio or video in Chinese and English to transcribe text with speaker diarization, timestamps, and interactive playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
